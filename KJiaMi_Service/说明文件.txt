@@ -1,0 +1,8 @@
+项目地址：复制浏览器打开
+http://localhost:8080/coderQ/admin/dist/index.html
+
+账号密码：
+admin       123456
+
+
+
